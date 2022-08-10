@@ -2,8 +2,9 @@
 <hr />
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="45" /> Sobre mim
-<li>Atualmente sou <b>analista de suporte</b>, mas atuo indiretamente como DEV criando sistemas para auxiliar na gestão do setor e painéis de monitoramento para facilitar a tomada de decisão do nosso dia a dia;</li>
-<li>Pretendo em um <b>futuro próximo</b> atuar definitivamente na área de desenvolvimento, de modo a alcançar um de meus sonhos/objetivos.</li>
+<li>Formado em <b>análise e desenvolvimento de sistemas</b> pela <b>FATEC</b> e pós-graduando em <b>análise e desenvolvimento de programas</b> e <b>gestão de projetos</b> pela <b>Descomplica Faculdade Digital</b>;</li>
+<li>Atuei 6 anos na área de suporte até migrar para a área de desenvolvimento, mas já realizava alguns freelances e desenvolvia alguns sistemas para as empresas;</li>
+<li>Atualmente sou <b>analista de sistemas</b>, atuo como desenvolvedor para a área de <i>Business Intelligence</i> da <b>JBS</b>.</li>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiopinheirom)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caiopinheirom)
